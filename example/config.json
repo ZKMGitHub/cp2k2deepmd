@@ -1,0 +1,8 @@
+{
+    "base_path": "./portlandite",
+    "ener_file": "./portlandite/Portlandite_AIMD-1.ener",
+    "frc_file": "./portlandite/Portlandite_AIMD-frc-1.xyz",
+    "pos_file": "./portlandite/Portlandite_AIMD-pos-1.xyz",
+    "cell_file": "./portlandite/Portlandite_AIMD-1.cell",
+    "interval": 1
+}
