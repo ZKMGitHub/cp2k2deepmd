@@ -174,7 +174,7 @@ def cp2k2deepmd(config_path):
     
     # Elements
     element_indices, unique_elements = extract_elements(pos_file)
-    element_indices = element_indices[::interval]
+    element_indices = element_indices
     
     type_file = os.path.join(deepmd_path, "type.raw")
     type_map_file = os.path.join(deepmd_path, "type_map.raw")
